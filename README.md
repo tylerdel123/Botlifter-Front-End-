@@ -1,5 +1,5 @@
 # Botlifter-Front-End-
-A front end web page for a product.
+A front end web page for a product using vanilla JavaScript, HTML, and CSS.
 
 **How to view:**
   Install all files on computer then open HomePage.html.
