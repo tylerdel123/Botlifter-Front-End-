@@ -1,4 +1,4 @@
-# Botlifter-Front-End-
+# Botlifter-Front-End
 A front end web page for a product using vanilla JavaScript, HTML, and CSS.
 
 **How to view:**
